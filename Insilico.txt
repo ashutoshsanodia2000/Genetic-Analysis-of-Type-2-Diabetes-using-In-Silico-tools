@@ -1,0 +1,6 @@
+Insilico Tools Used In Project:
+1.	SIFT: https://sift.bii.a-star.edu.sg/www/SIFT_seq_submit2.html
+2.	Polyphen-2: http://genetics.bwh.harvard.edu/pph2/\
+3.	FATHMM: http://fathmm.biocompute.org.uk/inherited.html
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
